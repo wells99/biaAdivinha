@@ -38,6 +38,6 @@ e.preventDefault();
 });
 
 function reiniciar() {
-    
+    // Recarrega a pagina ao apertar o botão
     location.reload();
 }
