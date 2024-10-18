@@ -76,3 +76,18 @@ a{
     text-align: left;
     color: orange;
 }
+
+
+button{
+    background-color: #DE5540;
+    height: 35px;
+    border-radius: 5px ;
+    width: 161px;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #dd371d;
+}
